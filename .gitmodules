@@ -1,0 +1,21 @@
+[submodule "src/sos-java"]
+	path = src/sos-java
+	url = git@github.com:nandor-poka/sos-java.git
+[submodule "src/sos-r"]
+	path = src/sos-r
+	url = git@github.com:nandor-poka/sos-r.git
+[submodule "src/sos-julia"]
+	path = src/sos-julia
+	url = git@github.com:nandor-poka/sos-julia.git
+[submodule "src/sos-python"]
+	path = src/sos-python
+	url = git@github.com:nandor-poka/sos-python.git
+[submodule "src/sos-notebook"]
+	path = src/sos-notebook
+	url = git@github.com:nandor-poka/sos-notebook.git
+[submodule "src/sos"]
+	path = src/sos
+	url = git@github.com:nandor-poka/sos.git
+[submodule "src/markdown-kernel"]
+	path = src/markdown-kernel
+	url = git@github.com:nandor-poka/markdown-kernel.git
